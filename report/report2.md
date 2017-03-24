@@ -2,7 +2,7 @@
 
 ##### Joey Maalouf
 
-After reading through all of the potential variables provided by the [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/nhis_2015_data_release.htm) <sup>[1]</sup>, I chose to look for a potential link between military status and financial status. More specifically, I wanted to check if whether someone served in the United States military affects their current income bracket.
+After reading through all of the potential variables provided by the National Health Interview Survey <sup>[1]</sup>, I chose to look for a potential link between military status and financial status. More specifically, I wanted to check if whether someone served in the United States military affects their current income bracket.
 
 Roughly 1 in 15 people who responded to the survey were in the military at some point, with 6,863 military responses and 96,926 non-military responses. The respondents' income data was split into 11 different income brackets:
 
@@ -42,11 +42,11 @@ We can observe a significant disparity by splitting at the middle of our income 
 
 The imbalance is even more visible if we segment the data into lower, middle, and upper brackets. Among those who were military, over half of the respondents are still in the upper bracket, making over $45,000 per year, with the rest still leaning more towards the middle bracket than the lower one. Non-military respondents, however, remain much more evenly spread across all of the brackets.
 
-Further statistical analysis using the Cohen effect size tells us that the difference in means (standardized by dividing by the standard deviation of the data) is about 0.32, which (according to Cohen himself) is somewhere between "small" and "medium" for an effect size <sup>[2]</sup>.
+Further statistical analysis using the Cohen effect size tells us that the difference in means (standardized by dividing by the standard deviation of the data) is about 0.32, which (according to Cohen himself) is somewhere between "small" and "medium" for an effect size <sup>[2]</sup>. [TODO: further expansion on statistical significance (random sampling, hypothesis testing?)]
 
-One point to further consider is why this difference exists. Do we have a societal bias to use higher pay to reward those who risk their lives for the rest of us? Or does veterans' experience qualify them for higher-level jobs than the average working adult?
+One point to further consider is why this difference exists. Do we have a societal bias to use higher pay to reward those who risk their lives for the rest of us? Or does veterans' experience qualify them for higher-level jobs than the average working adult? Could there be some confounding variable that is responsible for a higher income and a higher likelihood of entering the military?
 
-<sup>[1] U.S. Department of Health & Human Services (2015). National Health Interview Survey.
+<sup>[1] [U.S. Department of Health & Human Services (2015). National Health Interview Survey.](https://www.cdc.gov/nchs/nhis/nhis_2015_data_release.htm)
 <br>
 [2] Cohen, Jacob (1988). Statistical Power Analysis for the Behavioral Sciences.
 <br>
