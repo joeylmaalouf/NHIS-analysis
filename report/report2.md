@@ -50,4 +50,4 @@ One point to further consider is why this difference exists. Do we have a societ
 <br>
 [2] Cohen, Jacob (1988). Statistical Power Analysis for the Behavioral Sciences.
 <br>
-[Notebook Source](https://github.com/joeylmaalouf/NHIS-analysis/blob/master/report2.ipynb)</sup>
+[Notebook Source](https://github.com/joeylmaalouf/NHIS-analysis/blob/master/report/report2.ipynb)</sup>
