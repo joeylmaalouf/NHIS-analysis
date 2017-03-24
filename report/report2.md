@@ -20,9 +20,9 @@ Roughly 1 in 15 people who responded to the survey were in the military at some 
 
 Figures 1 and 2 provide a basic visualization of the normalized data, both as a histogram of the actual data (1) and as an estimation of the PDF via KDE (2).
 
-![Figure 1: Histogram](img/histogram.png)
+![Figure 1: Histogram](../img/histogram.png)
 
-![Figure 2: PDF](img/pdf.png)
+![Figure 2: PDF](img..//pdf.png)
 
 These visualizations make it apparent that people who served in the military were underrepresented in low income brackets and overrepresented in high income brackets compared to the rest of the population. This difference appears more clearly if we split the income data into even broader bracket groupings for further analysis.
 
