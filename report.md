@@ -2,8 +2,6 @@
 
 ##### Joey Maalouf
 
-#link notebook somewhere
-
 After reading through all of the potential variables provided by the [National Health Interview Survey](https://www.cdc.gov/nchs/nhis/nhis_2015_data_release.htm) <sup>[1]</sup>, I chose to look for a potential link between military status and financial status. More specifically, I wanted to check if whether someone served in the United States military affects their current income bracket.
 
 Roughly 1 in 15 people who responded to the survey were in the military at some point, with 6,863 military responses and 96,926 non-military responses. The respondents' income data was split into 11 different income brackets:
@@ -50,4 +48,6 @@ One point to further consider is why this difference exists. Do we have a societ
 
 <sup>[1] U.S. Department of Health & Human Services (2015). National Health Interview Survey.
 <br>
-[2] Cohen, Jacob (1988). Statistical Power Analysis for the Behavioral Sciences.</sup>
+[2] Cohen, Jacob (1988). Statistical Power Analysis for the Behavioral Sciences.
+<br>
+[Notebook Source](https://github.com/joeylmaalouf/NHIS-analysis/blob/master/report.ipynb)</sup>
